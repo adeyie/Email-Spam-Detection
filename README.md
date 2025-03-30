@@ -4,6 +4,14 @@ This project focuses on developing a robust SPAM email detection system using a 
 ![image alt](https://github.com/adeyie/Email-Spam-Detection/blob/4ac767a78cb37040241a5a437becd4598a43adec/Email%20SPAM.PNG)
 
 ## Python version: 3.7.4
+## Packages used
+* numpy
+* pandas
+* sklearn
+* nltk
+* re
+* matplotlib
+
 ## Key Highlights
 * Data Preprocessing and Cleaning
 * Feature Extraction
