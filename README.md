@@ -6,3 +6,7 @@ This project focuses on developing a robust SPAM email detection system using a 
 ## Python version: 3.7.4
 ## Key Highlights
 * Data Preprocessing and Cleaning
+* Feature Extraction
+* Checking feature correlation to the target (Spam or Ham)
+* Model training using Random Forest Classifier
+* Model evaluation using accuracy, precision, recall, and F1-score
