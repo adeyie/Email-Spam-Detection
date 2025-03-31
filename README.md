@@ -22,3 +22,5 @@ This project focuses on developing a robust SPAM email detection system using a 
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
 * Special thanks to the open-source community for maintaining libraries and resources.
+
+## Data Preprocessing and Cleaning
