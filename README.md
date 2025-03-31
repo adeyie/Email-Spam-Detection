@@ -27,7 +27,8 @@ Created two features: one representing the number of characters excluding spaces
 
 Point-Biserial Correlation was applied to determine the relationship between the binary target variable and the newly created features. In addition, histograms were drawn to visualize both features for 'spam' and 'ham' categories. The analysis indicated that the first feature is significant and will be used as an input for training the Random Forest (RF) model.
 
-
+![image alt](https://github.com/adeyie/Email-Spam-Detection/blob/b6119bb3010486fe20cc763a7f248070d3aeaa22/word_count.png)
+![image alt](https://github.com/adeyie/Email-Spam-Detection/blob/b6119bb3010486fe20cc763a7f248070d3aeaa22/word_count.png)
 
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
