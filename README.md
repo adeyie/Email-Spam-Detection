@@ -22,7 +22,10 @@ This project focuses on developing a robust SPAM email detection system using a 
 
 ## Data Preprocessing and Cleaning
 Used isna() to check for missing values, and no missing values were found in the dataset.
+
 Created two features 
+
+Created two features: one representing the number of characters excluding spaces, and another representing the proportion of punctuation in the body text of an email.
 
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
