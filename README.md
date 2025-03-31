@@ -25,6 +25,10 @@ Used isna() to check for missing values, and no missing values were found in the
 
 Created two features: one representing the number of characters excluding spaces, and another representing the proportion of punctuation in the body text of an email.
 
+Point-Biserial Correlation was applied to determine the relationship between the binary target variable and the newly created features. The analysis indicated that the first feature is significant and will be used as an input for training the Random Forest (RF) model.
+
+
+
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
 * Special thanks to the open-source community for maintaining libraries and resources.
