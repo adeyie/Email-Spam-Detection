@@ -21,7 +21,9 @@ This project focuses on developing a robust SPAM email detection system using a 
 * Model evaluation using accuracy, precision, recall, and F1-score
 
 ## Data Preprocessing and Cleaning
+Used isna() to check for missing values, and no missing values were found in the dataset.
 Created two features 
+
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
 * Special thanks to the open-source community for maintaining libraries and resources.
