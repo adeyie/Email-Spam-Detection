@@ -13,6 +13,7 @@ This project focuses on developing a robust SPAM email detection system using a 
 * matplotlib
 
 ## Key Highlights
+* Checked for missing values
 * Data Preprocessing and Cleaning
 * Feature Extraction
 * Checking feature correlation to the target (Spam or Ham)
@@ -20,7 +21,7 @@ This project focuses on developing a robust SPAM email detection system using a 
 * Model evaluation using accuracy, precision, recall, and F1-score
 
 ## Data Preprocessing and Cleaning
-
+Created two features 
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
 * Special thanks to the open-source community for maintaining libraries and resources.
