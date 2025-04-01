@@ -36,6 +36,8 @@ For data cleaning, the following steps were performed on the body text of email 
 - Removed Stop Words: To reduce noise and focus on meaningful words.
 - Stemming: To reduce words to their root forms for better classification.
 
+After data cleaning, CountVectorizer with ngram_range=(2,2) was applied to extract bigrams from the email body text. The generated bigrams provide valuable insights into common word pairings.
+
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
 * Special thanks to the open-source community for maintaining libraries and resources.
