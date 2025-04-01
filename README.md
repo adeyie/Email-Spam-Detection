@@ -30,6 +30,14 @@ Point-Biserial Correlation was applied to determine the relationship between the
 ![image alt](https://github.com/adeyie/Email-Spam-Detection/blob/b6119bb3010486fe20cc763a7f248070d3aeaa22/word_count.png)
 ![image alt](https://github.com/adeyie/Email-Spam-Detection/blob/28d77c73cefa444a7b10090652f0d79b37cc144a/punc_prop.png)
 
+For data cleaning, the following steps were performed on the body text of email data for classification:
+
+Removed Punctuation: To eliminate unnecessary symbols.
+
+Removed Stop Words: To reduce noise and focus on meaningful words.
+
+Stemming: To reduce words to their root forms for better classification.
+
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
 * Special thanks to the open-source community for maintaining libraries and resources.
