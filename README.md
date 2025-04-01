@@ -38,6 +38,8 @@ Point-Biserial Correlation was applied to determine the relationship between the
 
 For data cleaning, the following steps were performed on the body text of email data for classification:
 
+- Lowercasing: Convert all text to lowercase to ensure consistency.
+- Number Removal: Remove all numerical characters from the email body.
 - Removed Punctuation: To eliminate unnecessary symbols.
 - Removed Stop Words: To reduce noise and focus on meaningful words.
 - Stemming: To reduce words to their root forms for better classification.
