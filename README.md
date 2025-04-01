@@ -56,6 +56,8 @@ The Random Forest model's performance is evaluated on the test set. Metrics used
 * F1-score: Harmonic mean of precision and recall, providing a balanced measure. 
 * Accuracy: Overall proportion of correctly classified emails.
 
+## Concluding Remarks
+This project demonstrates the successful application of a Random Forest classifier in addressing the challenge of spam email detection within an imbalanced dataset. Additionally, deploying this model in a real-world email system would be a valuable next step, including continuous monitoring and retraining to maintain its effectiveness against evolving spam tactics.
 
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
