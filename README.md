@@ -32,11 +32,9 @@ Point-Biserial Correlation was applied to determine the relationship between the
 
 For data cleaning, the following steps were performed on the body text of email data for classification:
 
-Removed Punctuation: To eliminate unnecessary symbols.
-
-Removed Stop Words: To reduce noise and focus on meaningful words.
-
-Stemming: To reduce words to their root forms for better classification.
+- Removed Punctuation: To eliminate unnecessary symbols.
+- Removed Stop Words: To reduce noise and focus on meaningful words.
+- Stemming: To reduce words to their root forms for better classification.
 
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
