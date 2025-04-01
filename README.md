@@ -20,6 +20,12 @@ This project focuses on developing a robust SPAM email detection system using a 
 * Model training using Random Forest Classifier
 * Model evaluation using accuracy, precision, recall, and F1-score
 
+
+## Dataset
+The dataset consists of email messages labeled as either "spam" or "ham" (non-spam). It exhibits a significant class imbalance:
+* Ham: 4822 emails
+* Spam: 746 emails
+
 ## Data Preprocessing and Cleaning
 Used isna() to check for missing values, and no missing values were found in the dataset.
 
