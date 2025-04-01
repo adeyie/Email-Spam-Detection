@@ -44,6 +44,8 @@ For data cleaning, the following steps were performed on the body text of email 
 
 After data cleaning, CountVectorizer with ngram_range=(2,2) was applied to extract bigrams from the email body text. The generated bigrams provide valuable insights into common word pairings.
 
+The dataset is split into training and testing sets using stratified sampling. Stratified sampling ensures that the proportion of spam and ham emails is maintained in both the training and testing sets. This is crucial for preventing biased evaluation for the imbalanced dataset. A test set size of 20% is used to evaluate the model's performance.
+
 ## Acknowledgements
 * Thanks to the creators of the datasets used.
 * Special thanks to the open-source community for maintaining libraries and resources.
