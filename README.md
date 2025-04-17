@@ -9,8 +9,8 @@ This project focuses on developing a robust SPAM email detection system using a 
 * pandas
 * sklearn
 * nltk
-* re
 * matplotlib
+* re
 
 ## Key Highlights
 * Checked for missing values
