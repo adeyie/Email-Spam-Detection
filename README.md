@@ -48,6 +48,7 @@ After data cleaning, CountVectorizer with ngram_range=(2,2) was applied to extra
 
 The dataset is split into training and testing sets using stratified sampling. Stratified sampling ensures that the proportion of spam and ham emails is maintained in both the training and testing sets. This is crucial for preventing biased evaluation for the imbalanced dataset. A test set size of 20% is used to evaluate the model's performance.
 
+## Model Training
 We employ a Random Forest (RF) classifier, known for its robustness and ability to handle complex datasets. 
 
 The Random Forest model's performance is evaluated on the test set. Metrics used: 
